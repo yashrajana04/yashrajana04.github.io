@@ -1,0 +1,56 @@
+#header{
+  font-size: 25px;
+  font-family: "Dosis";
+  color: white;
+  background: rgb(13, 168, 134);
+
+  padding-right:  20px;
+  padding: 10px;
+}
+#section {
+  height: 800px;
+  background: url(https://s-media-cache-ak0.pinimg.com/736x/91/66/c7/9166c7505e363039d654dc1079c929a1--blue-wallpapers-phone-wallpapers.jpg)
+
+}
+#home {
+ text-decoration: none,
+ color: white;
+}
+.headerButton{
+  float:right;
+  color: white;
+  text-decoration: none;
+  margin-left: 40px;
+}
+.headerButton:hover {
+  background: rgb(13, 224, 178);
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.blogPost{
+  margin-left: 7%;
+  margin-right: 7%;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  background: url("https://s-media-cache-ak0.pinimg.com/736x/91/66/c7/9166c7505e363039d654dc1079c929a1--blue-wallpapers-phone-wallpapers.jpg");
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+}
+.blogpost > h1 {
+    font-family: "Dosis";
+    font-weight: extra bold;
+    font-size: 25px;
+
+}
+.blogpost > p {
+  margin: 30px;
+  font-family: "Dosis";
+}
+body {
+  padding: 0;
+  margin: 0;
+
+
+}
